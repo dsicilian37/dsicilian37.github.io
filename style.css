@@ -1,6 +1,5 @@
 html, body {
     min-height: 100%;
-
 }
 
 body, div, form, input, select, p { 
@@ -17,7 +16,6 @@ body {
     background-size: cover;
 }
 
-    
 h1, h2 {
     text-transform: uppercase;
     font-weight: 400;
@@ -109,9 +107,9 @@ option {
     font-size: 15px;
     font-weight: 400;
     color: #fff;
- }
+}
     
- .btn-item {
+.btn-item {
     display: inline-block;
     margin: 20px 5px 0;
 }
